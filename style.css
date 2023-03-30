@@ -1,31 +1,16 @@
 body {
     
 	font-family: "Courier New", Courier, 'Courier New', Courier, monospace;
-    background-color: #d0d0bace;
+    background-color: #fffcf3ce;
+	color: #1e221ace;
 	margin: 0;
 	padding: 0;
 }
 
 header {
-	background-color: #9ea014ce;
-	color: #262623;
+	background-color: #1e221ace;
+	color: #efefe1;
 	padding: 20px;
-}
-
-nav ul {
-	list-style: none;
-	margin: 0;
-	padding: 0;
-}
-
-nav li {
-	display: inline-block;
-	margin: 0 10px;
-}
-
-nav li a {
-	color: #fff;
-	text-decoration: none;
 }
 
 main {
