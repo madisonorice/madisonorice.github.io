@@ -47,5 +47,7 @@ div.gallery {
 
 footer {
 	background-color: #6d9e9b;
-	
+	color: #333;
+	padding: 10px;
+	text-align: center;
 }
