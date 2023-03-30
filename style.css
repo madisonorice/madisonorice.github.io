@@ -2,13 +2,13 @@ body {
     
 	font-family: "Courier New", Courier, 'Courier New', Courier, monospace;
     background-color: #fffcf3ce;
-	color: #1e221ace;
+	color: #000000ce;
 	margin: 0;
 	padding: 0;
 }
 
 header {
-	background-color: #1e221ace;
+	background-color: #000000ce;
 	color: #efefe1;
 	padding: 20px;
 }
